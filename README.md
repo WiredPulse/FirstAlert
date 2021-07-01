@@ -1,2 +1,2 @@
-# Keyboard-adder
-Adds Russian keyboard as an attempt to not get ransomed
+# First Alert
+A very simple script to aid in preventing ransomware payloads
